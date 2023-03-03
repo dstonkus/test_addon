@@ -1,0 +1,1 @@
+{style src="addons/cp_js_pass/styles-addon-icon.less"}

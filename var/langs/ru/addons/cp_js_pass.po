@@ -1,0 +1,65 @@
+msgid ""
+msgstr "Project-Id-Version: tygh"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+
+msgctxt "Addons::name::cp_js_pass"
+msgid "Cart-Power: JS Password Generator"
+msgstr "Cart-Power: Генератор паролей"
+
+msgctxt "Addons::description::cp_js_pass"
+msgid "Generates passwords within JS. Developed by <a target=\"_blank\" href=\"http://cart-power.com/\">Cart-Power</a>. Professional CS-Cart development."
+msgstr "Модуль для генерации паролей в JS. Разработан <a target=\"_blank\" href=\"http://cart-power.ru/\">Cart-Power</a>. Профессиональная разработка для CS-Cart."
+
+msgctxt "SettingsSections::cp_js_pass::general"
+msgid "General"
+msgstr "Общие"
+
+msgctxt "SettingsOptions::cp_js_pass::licensekey"
+msgid "License Key"
+msgstr "Лицензионный ключ"
+
+msgctxt "SettingsOptions::cp_js_pass::characters_amount"
+msgid "Characters amount"
+msgstr "Количество символов"
+
+msgctxt "SettingsVariants::cp_js_pass::characters_amount::6"
+msgid "6"
+msgstr "6"
+
+msgctxt "SettingsVariants::cp_js_pass::characters_amount::7"
+msgid "7"
+msgstr "7"
+
+msgctxt "SettingsVariants::cp_js_pass::characters_amount::8"
+msgid "8"
+msgstr "8"
+
+msgctxt "SettingsVariants::cp_js_pass::characters_amount::9"
+msgid "9"
+msgstr "9"
+
+msgctxt "SettingsVariants::cp_js_pass::characters_amount::10"
+msgid "10"
+msgstr "10"
+
+msgctxt "SettingsVariants::cp_js_pass::characters_amount::11"
+msgid "11"
+msgstr "11"
+
+msgctxt "SettingsVariants::cp_js_pass::characters_amount::12"
+msgid "12"
+msgstr "12"
+
+msgctxt "Languages::cp_gen_pass"
+msgid "Password is generated"
+msgstr "Пароль сгенерирован"
+
+msgctxt "Languages::cp_pass_copy_clipboard"
+msgid "Please, save this password in secure place"
+msgstr "Пожалуйста, сохраните пароль в надежном месте"
+
+msgctxt "Languages::cp_generate_password"
+msgid "Generate password"
+msgstr "Сгенерировать пароль"

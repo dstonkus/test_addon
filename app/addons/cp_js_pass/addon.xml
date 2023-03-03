@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<addon scheme="3.0">
+    <id>cp_js_pass</id>
+    <version>1.0</version>
+    <priority>1250</priority>
+    <position>183</position>
+    <default_language>en</default_language>
+	<status>active</status>
+	<authors>
+        <author>
+            <name>Cart-Power</name>
+            <email>sales@cart-power.com</email>
+            <url>http://cart-power.com</url>
+        </author>
+    </authors>
+	<settings>
+		<sections>
+			<section id="general">
+				<items>
+					<item id="characters_amount">
+						<type>selectbox</type>
+						<default_value>6</default_value>
+						<variants>
+							<item id="6"/>
+							<item id="7"/>
+							<item id="8"/>
+							<item id="9"/>
+							<item id="10"/>
+							<item id="11"/>
+							<item id="12"/>
+						</variants>
+					</item>
+				</items>
+			</section>
+		</sections>
+	</settings>
+<marketplace_product_id>1016</marketplace_product_id><marketplace_license_number>MP-N4G8-1277-X719-8I16</marketplace_license_number></addon>

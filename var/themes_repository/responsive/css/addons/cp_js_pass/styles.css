@@ -1,0 +1,11 @@
+.fa-key {
+	margin-left: 5px;
+	font-size: 14px;
+	cursor: pointer;
+}
+.ty-account .ty-input-text {
+	width: 95% !important;
+}
+.ty-step__body-active .ty-control-group .ty-input-text {
+	width: 97% !important;
+}
